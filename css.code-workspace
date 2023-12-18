@@ -1,0 +1,17 @@
+{
+    "folders": [
+		{
+			"path": "IT-Lab1/css"
+		},
+		{
+			"path": "IT-Lab1/js"
+		},
+		{
+			"path": "."
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "js",
+        "liveServer.settings.CustomBrowser": "chrome"
+    }
+}
